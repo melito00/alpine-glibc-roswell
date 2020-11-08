@@ -1,7 +1,7 @@
 #IMAGE:=frolvlad/alpine-glibc
 #VERSION:=alpine-3.12
 IMAGE:=melito00/alpine-glibc-sbcl
-VERSION:=0.0.2
+VERSION:=0.0.3
 UDIR:=/home/melito00
 WPATH:=work
 
